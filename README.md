@@ -1,0 +1,1 @@
+This repo is part of a lesson in The Odin Project curriculum. It is a basic website that shows several recipes and is designed to demonstrate my skills in html. I need to show that I can use the proper code to format text, display images, and link to other pages through html.
