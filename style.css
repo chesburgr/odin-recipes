@@ -1,0 +1,48 @@
+* {
+    background-color:ivory;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+li.article {
+    list-style:square;
+    list-style-position:inside;
+    color:pink;
+    font-size: 24px;
+}
+
+h1.title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+
+h2.smallheading {
+    text-align:center;
+    font-size: 26px;
+}
+
+img.homepageimg {
+    width: 500px;
+    height: 500px;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 20px;
+
+}
+
+ol.numbered {
+    text-align: left;
+    list-style-position: inside;
+    display:block;
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+}
+
